@@ -1,8 +1,9 @@
-python-telegram-bot==21.4
+flask
+python-telegram-bot==21.*
 diffusers
 torch
 torchvision
 torchaudio
 pillow
-opencv-python
 accelerate
+transformers
