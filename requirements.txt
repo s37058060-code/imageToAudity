@@ -1,1 +1,8 @@
-
+python-telegram-bot==21.4
+diffusers
+torch
+torchvision
+torchaudio
+pillow
+opencv-python
+accelerate
